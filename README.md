@@ -5,6 +5,10 @@ The Deno shop! Built with [Deno](https://deno.land/) and
 
 ## Screen Shot
 
+
+
+
+
 ![Screen Shot](./static/screen_shot.png)
 
 ## Develop locally
