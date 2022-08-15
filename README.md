@@ -1,4 +1,4 @@
-# Deno Merch
+
 
 The Deno shop! Built with [Deno](https://deno.land/) and
 [Fresh](https://fresh.deno.dev/), powered by [Shopify](https://www.shopify.com).
